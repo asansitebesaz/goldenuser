@@ -1,4 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine on
-RewriteRule ^(.*)$ https://asansitebesaz.com/$1 [R=301,L]
-</IfModule>
